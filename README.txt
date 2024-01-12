@@ -1,4 +1,4 @@
-ROO Reminder Bot Readme
+Pory Reminder Bot Readme
 
 This bot is designed to help remind users to perform certain actions related to Leppa Berries in PokeMMO. It uses Discord's API to communicate with users and schedule reminders.
 
